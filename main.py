@@ -65,7 +65,11 @@ def main():
             print("退出系统")
             break
         else:
+<<<<<<< HEAD
             print("功能开发中(master)")        
+=======
+            print("功能开发中(feature-menu)")        
+>>>>>>> feature-menu
 if __name__=="__main__":
     main()
 
