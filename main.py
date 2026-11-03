@@ -65,7 +65,7 @@ def main():
             print("退出系统")
             break
         else:
-            print("功能暂未实现")        
+            print("功能开发中(master)")        
 if __name__=="__main__":
     main()
 
